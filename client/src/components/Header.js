@@ -8,7 +8,7 @@ const Header = () => {
       {/* Left-hand side logo and college name */}
       <div className='flex items-center'>
         <img src={logo} alt='Logo' className='w-14 h-14 mr-2 rounded-full' />
-        <h1 className='text-xl font-bold'>Wadduwa Central College</h1>
+        <h1 className='text-xl font-bold'>CGC_learners</h1>
       </div>
 
       {/* Right-hand side profile icon */}

@@ -1,7 +1,7 @@
 
-# Student Management System - MERN Project
+# Student Data Administration System - MERN Project
 
-Welcome to the Student Management System repository! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and provides a comprehensive solution for managing student records.
+Welcome to the Student Data Administration System repository! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and provides a comprehensive solution for managing student records.
 
 ## Features
 
